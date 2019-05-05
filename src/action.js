@@ -1,3 +1,3 @@
 function main(params) {
-  return {result:10};
+  return {result:30};
 }
