@@ -1,3 +1,3 @@
-export default function main(params) {
+function main(params) {
   return {result:10};
 }
