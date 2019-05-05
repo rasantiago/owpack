@@ -1,0 +1,8 @@
+packages:
+    owpack:
+        version: "1.0"
+        license: "UNLICENSED"
+        actions:
+            sample:
+                function:  src/action.js
+                runtime: "nodejs:10"
